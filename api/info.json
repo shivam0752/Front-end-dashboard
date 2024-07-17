@@ -1,0 +1,212 @@
+{
+  "cards": [
+    {
+      "_id": 1,
+      "name": "Sales",
+      "icon": "bi bi-cart",
+      "amount": 145,
+      "percentage": 0.12,
+      "active": true
+    },
+    {
+      "_id": 2,
+      "name": "Revenue",
+      "icon": "bi bi-currency-dollar",
+      "amount": 200,
+      "percentage": 0.15,
+      "active": true
+    },
+    {
+      "_id": 3,
+      "name": "New Users",
+      "icon": "bi bi-person",
+      "amount": 50,
+      "percentage": 0.05,
+      "active": true
+    },
+    {
+      "_id": 4,
+      "name": "Orders",
+      "icon": "bi bi-basket",
+      "amount": 120,
+      "percentage": 0.08,
+      "active": true
+    },
+    {
+      "_id": 5,
+      "name": "Visits",
+      "icon": "bi bi-graph-up",
+      "amount": 350,
+      "percentage": 0.25,
+      "active": true
+    },
+    {
+      "_id": 6,
+      "name": "Support Tickets",
+      "icon": "bi bi-life-preserver",
+      "amount": 75,
+      "percentage": 0.1,
+      "active": false
+    }
+  ],
+  "news": [
+    {
+      "_id": 1,
+      "img": "../assets/items/news-1.jpg",
+      "title": "Understanding the Latest Innovations in Technology",
+      "subtitle": "Understanding the Latest Innovations in Technology",
+      "category": "abc"
+    },
+    {
+      "_id": 2,
+      "img": "../assets/items/news-2.jpg",
+      "title": "Enhancing User Experience with Interactive Interfaces",
+      "subtitle": "If you are interested in becoming an active web developer",
+      "category": "abc"
+    },
+    {
+      "_id": 3,
+      "img": "../assets/items/news-3.jpg",
+      "title": "The Impact of Artificial Intelligence on Business",
+      "subtitle": "Learn about AI's transformative effects on ",
+      "category": "abc"
+    },
+    {
+      "_id": 4,
+      "img": "../assets/items/news-4.jpg",
+      "title": "Strategies for Effective Marketing",
+      "subtitle": "Explore proven tactics to boost your digital ",
+      "category": "abc"
+    },
+    {
+      "_id": 5,
+      "img": "../assets/items/news-5.jpg",
+      "title": "Navigating Challenges in Remote Work",
+      "subtitle": "Discover practical tips for managing teams and",
+      "category": "abc"
+    }
+  ],
+  "topselling": [
+    {
+      "_id": 1,
+      "preview": "../assets/items/product-1.jpg",
+      "name": "TechFeet Shoes",
+      "price": 64,
+      "sold": 124
+    },
+    {
+      "_id": 2,
+      "preview": "../assets/items/product-2.jpg",
+      "name": "Exercite Smart Watches",
+      "price": 46,
+      "sold": 98
+    },
+    {
+      "_id": 3,
+      "preview": "../assets/items/product-3.jpg",
+      "name": "Dolorib Lotion",
+      "price": 59,
+      "sold": 74
+    },
+    {
+      "_id": 4,
+      "preview": "../assets/items/product-4.jpg",
+      "name": "Officiis sunglasses",
+      "price": 32,
+      "sold": 63
+    },
+    {
+      "_id": 5,
+      "preview": "../assets/items/product-5.jpg",
+      "name": "Situde Headphones",
+      "price": 79,
+      "sold": 41
+    }
+  ],
+  "recentsales": [
+    {
+      "_id": 1,
+      "number": "#2457",
+      "customer": "Brandon Jacob",
+      "product": "Item123",
+      "price": 64,
+      "status": "Approved"
+    },
+    {
+      "_id": 2,
+      "number": "#2147",
+      "customer": "Bridie Kessler",
+      "product": "Item124",
+      "price": 47,
+      "status": "Pending"
+    },
+    {
+      "_id": 3,
+      "number": "#2049",
+      "customer": "Ashleigh Langosh",
+      "product": "Item125",
+      "price": 147,
+      "status": "Approved"
+    },
+    {
+      "_id": 4,
+      "number": "#2644",
+      "customer": "Angus Grady",
+      "product": "Item126",
+      "price": 67,
+      "status": "Rejected"
+    },
+    {
+      "_id": 5,
+      "number": "#3592",
+      "customer": "Raheem Lehner",
+      "product": "Item127",
+      "price": 135,
+      "status": "Approved"
+    }
+  ],
+  "recentactivity": [
+    {
+      "_id": 1,
+      "time": "10:30 AM",
+      "color": "text-primary",
+      "content": "John Doe registered an account.",
+      "highlight": ""
+    },
+    {
+      "_id": 2,
+      "time": "11:15 AM",
+      "color": "text-success",
+      "content": "Order #12345 was completed.",
+      "highlight": ""
+    },
+    {
+      "_id": 3,
+      "time": "12:00 PM",
+      "color": "text-danger",
+      "content": "Server 3 encountered an error.",
+      "highlight": ""
+    },
+    {
+      "_id": 4,
+      "time": "12:45 PM",
+      "color": "text-info",
+      "content": "You have received a new message from Sarah.",
+      "highlight": ""
+    },
+    {
+      "_id": 5,
+      "time": "01:30 PM",
+      "color": "text-warning",
+      "content": "Mike changed his password.",
+      "highlight": ""
+    },
+    {
+      "_id": 6,
+      "time": "02:00 PM",
+      "color": "text-muted",
+      "content": "A new review was added for Smartphone X.",
+      "highlight": ""
+    }
+  ]
+}
